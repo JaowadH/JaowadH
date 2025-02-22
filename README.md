@@ -1,3 +1,22 @@
+---
+name: "Jaowad Hossain"
+title: "Junior Front-End Developer | Buyer’s Assistant"
+location: "Newfoundland, Canada"
+technologies:
+  - "JavaScript"
+  - "Python"
+  - "React"
+  - "AWS"
+projects:
+  - name: "Sales Report Automation"
+    link: "https://github.com/JaowadH/SalesReport"
+    description: "Automates quarterly sales reports for multiple locations."
+  - name: "Resume Analyzer"
+    link: "https://github.com/JaowadH/ResumeAnalyzer"
+    description: "AI-powered tool for resume evaluation."
+---
+
+
 # 👋 Hi, I'm Jaowad Hossain!
 
 🚀 **Junior Front-End Developer | Tech Enthusiast | Problem Solver**  
