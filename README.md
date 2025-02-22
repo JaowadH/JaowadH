@@ -11,7 +11,7 @@
 - 🌱 Learning **AWS and Full-Stack Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, and Linux**.
 - 📫 Reach me at **[Your Email]**
-- 🌐 Visit my **[Portfolio Website](jaowad.com)**
+- 🌐 Visit my **[Portfolio Website](www.jaowad.com)**
 
 ---
 
