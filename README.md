@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as a **Buyer’s Assistant** at Pipers.
 - 🌱 Learning **AWS and Full-Stack Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, and Linux**.
-- 📫 Reach me at **[Your Email]**
+- 📫 Reach me at **[contact@jaowad.com]**
 - 🌐 Visit my **[Portfolio Website](https://jaowad.com)**
 
 ---
