@@ -41,7 +41,7 @@ Here are some of my favorite projects:
 ---
 
 ## 📫 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaowadhossain/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=react&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaowadh/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@jaowad.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=react&logoColor=white)](https://jaowad.com)
 
