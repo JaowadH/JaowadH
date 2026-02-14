@@ -4,18 +4,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Technical+Analyst+@Nasdaq+Verafin;Software+Developer+Graduate;Java+and+SQL+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-🚀 **Technical Analyst @Nasdaq/Verafin | Software Developer | Tech Enthusiast**
-🎯 Focused on **Enterprise Solutions**, **Financial Systems**, and **Backend Performance** 💡 Currently optimizing workflows with **Java** and **PostgreSQL**
+### 🚀 Professional Profile
+* **Role:** Technical Analyst @ Nasdaq Verafin
+* **Background:** Software Developer Graduate (August 2025)
+* **Focus:** Enterprise Solutions, Financial Systems, and Backend Performance
+* **Current Tech:** Optimizing workflows with **Java** and **PostgreSQL**
 
 ---
 
 ## 🌟 About Me
-- 🎓 **Software Development Graduate** (August 2025).
-- 🏗️ Currently specializing in **Java** and **SQL** within the fintech space.
-- 🔭 Working on **Minecraft server integration** and automation tools.
-- 🌱 Leveling up in **C development** and advanced database architecture.
-- 💬 Ask me about **Java, Linux, SQL, and ACH File Structures**.
-- 📫 Reach me at **[contact@jaowad.com]**
+* 🎓 **Software Development Graduate** (August 2025).
+* 🏗️ Specializing in **Java** and **SQL** within the fintech space.
+* 🔭 Working on **Minecraft server integration** and automation tools.
+* 🌱 Leveling up in **C development** and advanced database architecture.
+* 💬 Ask me about **Java, Linux, SQL, and ACH File Structures**.
+* 📫 Reach me at **[contact@jaowad.com]**
+* 🌐 Visit my **[Portfolio Website](https://jaowad.com)**
 
 ---
 
@@ -36,17 +40,20 @@
 
 ## 📌 Focus Projects
 ### 🏗️ **In Progress: Minecraft Server Utility**
-A project focused on integrating Discord bots with Minecraft server management, utilizing my background in Java and automation.
+Integrating Discord bots with Minecraft server management, leveraging Java and automation skills.
 
 ### 🌎 [Portfolio Website](https://jaowad.com)
-My central hub showcasing my journey from college to a Technical Analyst role.
+A showcase of my career transition into Technical Analysis at Nasdaq Verafin.
 
 ---
 
 ## 📊 Insights & Stats
+* **GitHub Activity:** Real-time overview of contributions and commit history.
+* **Language Proficiency:** Visual breakdown of the coding languages I use most.
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaowadH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaowadH&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaowadH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaowadH&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -57,5 +64,3 @@ My central hub showcasing my journey from college to a Technical Analyst role.
 <a href="mailto:contact@jaowad.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://jaowad.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
-
-
