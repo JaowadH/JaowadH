@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 - 🔭 I’m currently completing my **Software Development** diploma.
-- 🌱 Learning **AWS and Full-Stack Development**.
+- 🌱 Currently Learning **Basic C and SQL Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java and Linux**.
 - 📫 Reach me at **[contact@jaowad.com]**
 - 🌐 Visit my **[Portfolio Website](https://jaowad.com)**
