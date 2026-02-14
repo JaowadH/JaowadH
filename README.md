@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Jaowad Hossain!
 
-🚀 **Junior Front-End Developer | Tech Enthusiast | Problem Solver**  
+🚀 **Technical Analyst @Nasdaq/Verafin | Tech Enthusiast | Problem Solver**
 🎯 Passionate about **Web Development**, **Data Science**, and **Automation**  
 💡 I love working with **JavaScript, Python, and Cloud Technologies**  
 
