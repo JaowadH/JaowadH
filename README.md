@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jaowad Hossain!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Technical+Analyst+@Nasdaq+Verafin;Software+Developer+Graduate;Java+and+SQL+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Technical+Analyst+@Nasdaq+Verafin;Software+Developer+Graduate;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ### 🚀 Professional Profile
